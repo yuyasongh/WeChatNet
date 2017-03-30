@@ -1,0 +1,6 @@
+E:\Code\WeChat\WeChatDLL\bin\Debug\WeChatDLL.dll
+E:\Code\WeChat\WeChatDLL\bin\Debug\WeChatDLL.pdb
+E:\Code\WeChat\WeChatDLL\obj\Debug\WeChatDLL.dll
+E:\Code\WeChat\WeChatDLL\obj\Debug\WeChatDLL.pdb
+E:\Code\WeChat\WeChatDLL\bin\Debug\Newtonsoft.Json.dll
+E:\Code\WeChat\WeChatDLL\obj\Debug\WeChatDLL.csprojResolveAssemblyReference.cache
